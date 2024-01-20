@@ -32,6 +32,7 @@ Load order is important and is the cause of most problems. Important points:
 </details>
 
 <details><summary>Rules & Special Information</summary>
+ 
 - On Graphical Settings, the option "Animation Level of Detail" needs to be set to "High" otherwise you will have issues with heads/hairs.
 - [Better Hotbar 2](https://www.nexusmods.com/baldursgate3/mods/2417), [Slightly Better Trade Menu](https://www.nexusmods.com/baldursgate3/mods/1893), [Slightly Better Topbar](https://www.nexusmods.com/baldursgate3/mods/2790), [Dynamic Sidebar](https://www.nexusmods.com/baldursgate3/mods/2668), [Better Hints and New Loading Screens](https://www.nexusmods.com/baldursgate3/mods/816) are the 16:9 aspect ratio version. You can manually download another version if your screen is not 16:9 aspect ratio, but it may or may not disable co-op if not using the same as friends (not tested, since I use the 16:9).
 - If Prompted on "Manage Rules" Load Detailed Lae'zel **After** Better Gith Body and Smooth Gith Body and Load Better Gith Body **after** Smooth Gith Body (check media). You need the three mods, otherwise you will have neck seems.
@@ -42,6 +43,7 @@ Load order is important and is the cause of most problems. Important points:
 </details>
 
 <details><summary>Updating the collection</summary>
+ 
 - Everytime you update/add/remove mods, you should press "Purge" and then "Deploy" and apply the newest load order.
 - Another tip for Updating the Collection, go to profiles, create a new profile. Change to that profile. Add the Collection again to Vortex and then after this new adding is done, you can remove the previous collection without selecting anything (don't remove the mods or archives, otherwise you will have to download everything again).
 - After an Update if you find missing textures on bodies (or they turn black, it is more common amongst users to happen to Shadowheart) remove all of the shader mods, auto-reinstall the missing collection files, purge (accept any external changes reported), redeploy, import the load order lsx file. Great tip by [oranhayes](https://www.nexusmods.com/users/942833). The shader mods are the following.:
@@ -51,6 +53,7 @@ Load order is important and is the cause of most problems. Important points:
 </details>
 
 <details><summary>Additional Information</summary>
+ 
 - Make sure everything is installed in the same drive ! e.g. Game, mods and mod manager all installed on (C:) (also not recommended to use an external driver).
 - If asked by Vortex if you wish to install as replacer, please do so.
 - If your Script Extender is having issues (not working or not updating) you can go to C:\Users\USER\AppData\Local\BG3ScriptExtender\ScriptExtender and delete everything that exists in there launch the game again and should give you the current version.
@@ -67,6 +70,7 @@ Load order is important and is the cause of most problems. Important points:
 </details>
 
 <details><summary>Multiplayer</summary>
+ 
 Multiplayer: **IT DOES WORK!** I only play BG3 Co-Op, I made the Collection to play with my friend initially. But if for some reason you can't connect to your friends or your friends to you, you all have to make sure everything is okay, needs to be the exact same. Same mod versions, same load order, same mods, same game version, SE version, some mods need to be set engine injector. Check game files, otherwise could break it also. Don't have any mods in the right side of BG3MM (also known as inactive, but like BG3MM mentions, those mods are not totally inactive).\
 [DuchessDesigns](https://www.nexusmods.com/users/6850726): Be sure to update the dependencies for the QoL collection in your load order (if you don't see a red structure tree, click the gear icon in the top right and select dependencies) and scroll down until you see the mod name in red and click the '-' button to the right and deploy!
 </details>
