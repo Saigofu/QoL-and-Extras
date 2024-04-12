@@ -30,9 +30,22 @@ All of this should already be configured, since I selected "Replicate" on my end
 - Script Extender (Achievements),  WASD, Native Loader and Native Camera need to be set on mod type to "Engine Injector".
 
 <details><summary>Load Order</summary>
+My [Load Order](https://www.nexusmods.com/baldursgate3/mods/4009/) - Put the .lsx file in C:\Users{USERNAME}\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public or just import it in Vortex. There is also a .json file in case you are using BG3MM. If you use a Manager, after importing the load order, don't forget to  export it to the game.
+
+<details><summary>Videos Showcasing the Import/Export</summary>
+Vortex.:
+
+https://www.youtube.com/watch?v=9lW5CkpHeH4
+
+BG3MM.:\
+
+
+https://www.youtube.com/watch?v=eWjIsDyDPxU
+</details>
+
 Load order is important and is the cause of most problems. Important points:
 
-![Load Order Concept](https://i.imgur.com/bAGadzL.png)My [Load Order](https://www.nexusmods.com/baldursgate3/mods/4009/) - Put the .lsx file in C:\Users{USERNAME}\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public or just import it in Vortex. There is also a .json file in case you are using BG3MM.
+![Load Order Concept](https://i.imgur.com/bAGadzL.png)
 </details>
 
 <details><summary>Rules & Special Information</summary>
