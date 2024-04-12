@@ -74,9 +74,9 @@ Load order is important and is the cause of most problems. Important points:
 - After revision 235 if you are using bg3mm and import the .json, you will see a bunch of mods on the inactive side (left side), this is also intented and leave them there. Don't worry, the mods are working properly.
 - Go to your Vortex Staging Folder, type "info" on search bar and you will see a bunch of "info.json" files, select them all and delete them, this will make your Vortex a bit faster and will resolve some conflicts.
 - This collection is not compatible with any mods that use textures from Patch #5 onwards, this happens due to having the Shader mods, which makes the textures the previous ones (before Patch #5) if you want to use mods that have textures from current game version, you can delete/disable the Shader mods, take in mind that the Gith Textures or Orc Textures will no longer work.
-- **Party Limit Begone.:** \
-  **Camp sleeping bug**: Use one of the awake companions and talk to Lae'zel or reduce your party size to 4 before resting.\
-  **Grymforge Map transition:** Reduce your party size to 4 members before sailing with the boat. If you already used it and your characters are stuck, dismiss the ones that are with you and sail back and forth to unstuck the rest.\
+- **Aether's No Party Limits.:**
+  **Camp sleeping bug**: Use one of the awake companions and talk to Lae'zel or reduce your party size to 4 before resting.
+  **Grymforge Map transition:** Reduce your party size to 4 members before sailing with the boat. If you already used it and your characters are stuck, dismiss the ones that are with you and sail back and forth to unstuck the rest.
   Note: After using the boat a timed quest is triggered and going to camp will progess it.
 - If your game is too difficult, you can disable the [Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207).
 - The exlamation point on top of your character head is due to [Camp Event Notifications](https://www.nexusmods.com/baldursgate3/mods/1879), basically tells you if you long rest now a scene will play out and if the exlamation point persists, means that you have more scenes on long rest.
