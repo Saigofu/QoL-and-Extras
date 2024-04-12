@@ -84,15 +84,15 @@ Load order is important and is the cause of most problems. Important points:
 </details>
 
 <details><summary>Aether's No Party Limits</summary>
-**KNOWN ISSUES**\
+**KNOWN ISSUES**
 The game was created with the intention of only ever having three total companions at a time, and because of that, there are a few issues that can arise. I will list them here:\
-\
+
 ***Issue #1: Conversation Party Limits***\
 Conversations are limited to the character speaking, and three party members. The game determines this based on who is closest to the speaker at the time of the conversation's initiation. Make sure to save often, so you can reload if you accidentally enter into a conversation without the party member you wanted for it.\
-\
+
 ***Issue #2: Grymforge Boat Ride***\
 The boat ride to Grymforge is scripted to only allow four party members, and so if you try to bring along more than four, some will get stuck at the dock, and not proceed across the river.\
-\
+
 The method for getting your characters across safely is listed below. If done correctly, all party members will cross the river safely. If done incorrectly, your party may turn invisible and become un-interactable. Create a save before using the boat, and follow these steps carefully:
 
 - Unlink your party into groups of four or less.
@@ -101,7 +101,7 @@ The method for getting your characters across safely is listed below. If done co
 
 If for some reason your characters become invisible despite the method provided above, or you chose not to follow it, you can do this:
 
-- Group the main character up with the invisible party members, and ungroup all visible party members. Then use the large Grymforge boat to cross the lake multiple times. Make sure you only have a party total of four. Continue crossing the lake until all members are visible.\\
+- Group the main character up with the invisible party members, and ungroup all visible party members. Then use the large Grymforge boat to cross the lake multiple times. Make sure you only have a party total of four. Continue crossing the lake until all members are visible.
 
 ***Issue #3: Sleeping Bug***\
 There is a small chance that some party members will not wake up after a long rest. Here's how you can fix it:
@@ -118,13 +118,13 @@ If for some reason you have installed the mod but it is not functioning, try the
 
 ***Issue #5: Crashing during Act 3***\
 There have been reports of crashing during Act 3 if you have too many party members with you, and your PC has an older CPU. If you experience common crashes while taking every party member, try reducing your party size, and it might fix the issue.\
-\
+
 Thanks to [Aetherpoint](https://www.nexusmods.com/users/13669385) for such careful explanation on his [modpage](https://www.nexusmods.com/baldursgate3/mods/3479).
 </details>
 
 <details><summary>Better Hotbar 2</summary>
-If you are having issues where you can't see your recast abilities in your hotbar (E.g. Speak with the Dead, Hex, etc), follow the following gif.:\
-![](https://i.imgur.com/BHyN6Lz.gif)
+If you are having issues where you can't see your recast abilities in your hotbar (E.g. Speak with the Dead, Hex, etc), follow the following gif.:
+![Image](https://i.imgur.com/BHyN6Lz.gif)
 </details>
 
 <details><summary>Multiplayer</summary>
