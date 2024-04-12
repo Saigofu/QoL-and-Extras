@@ -11,7 +11,7 @@ All of this should already be configured, since I selected "Replicate" on my end
 # Some Features.:
 
 - WASD movement;
-- Party Limit Begone;
+- Aether's No Party Limits;
 - No Weight Limit;
 - Spells;
 - Outfits (Highly suggest to use the camp version of them for balance purposes);
@@ -37,8 +37,7 @@ Vortex.:
 
 https://www.youtube.com/watch?v=9lW5CkpHeH4
 
-BG3MM.:\
-
+BG3MM.:\\
 
 https://www.youtube.com/watch?v=eWjIsDyDPxU
 </details>
@@ -74,9 +73,9 @@ Load order is important and is the cause of most problems. Important points:
 - After revision 235 if you are using bg3mm and import the .json, you will see a bunch of mods on the inactive side (left side), this is also intented and leave them there. Don't worry, the mods are working properly.
 - Go to your Vortex Staging Folder, type "info" on search bar and you will see a bunch of "info.json" files, select them all and delete them, this will make your Vortex a bit faster and will resolve some conflicts.
 - This collection is not compatible with any mods that use textures from Patch #5 onwards, this happens due to having the Shader mods, which makes the textures the previous ones (before Patch #5) if you want to use mods that have textures from current game version, you can delete/disable the Shader mods, take in mind that the Gith Textures or Orc Textures will no longer work.
-- **Aether's No Party Limits.:**
-  **Camp sleeping bug**: Use one of the awake companions and talk to Lae'zel or reduce your party size to 4 before resting.
-  **Grymforge Map transition:** Reduce your party size to 4 members before sailing with the boat. If you already used it and your characters are stuck, dismiss the ones that are with you and sail back and forth to unstuck the rest.
+- **Party Limit Begone.:** \
+  **Camp sleeping bug**: Use one of the awake companions and talk to Lae'zel or reduce your party size to 4 before resting.\
+  **Grymforge Map transition:** Reduce your party size to 4 members before sailing with the boat. If you already used it and your characters are stuck, dismiss the ones that are with you and sail back and forth to unstuck the rest.\
   Note: After using the boat a timed quest is triggered and going to camp will progess it.
 - If your game is too difficult, you can disable the [Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207).
 - The exlamation point on top of your character head is due to [Camp Event Notifications](https://www.nexusmods.com/baldursgate3/mods/1879), basically tells you if you long rest now a scene will play out and if the exlamation point persists, means that you have more scenes on long rest.
@@ -84,15 +83,15 @@ Load order is important and is the cause of most problems. Important points:
 </details>
 
 <details><summary>Aether's No Party Limits</summary>
-**KNOWN ISSUES**
+**KNOWN ISSUES**\
 The game was created with the intention of only ever having three total companions at a time, and because of that, there are a few issues that can arise. I will list them here:\
-
+\
 ***Issue #1: Conversation Party Limits***\
 Conversations are limited to the character speaking, and three party members. The game determines this based on who is closest to the speaker at the time of the conversation's initiation. Make sure to save often, so you can reload if you accidentally enter into a conversation without the party member you wanted for it.\
-
+\
 ***Issue #2: Grymforge Boat Ride***\
 The boat ride to Grymforge is scripted to only allow four party members, and so if you try to bring along more than four, some will get stuck at the dock, and not proceed across the river.\
-
+\
 The method for getting your characters across safely is listed below. If done correctly, all party members will cross the river safely. If done incorrectly, your party may turn invisible and become un-interactable. Create a save before using the boat, and follow these steps carefully:
 
 - Unlink your party into groups of four or less.
@@ -101,7 +100,7 @@ The method for getting your characters across safely is listed below. If done co
 
 If for some reason your characters become invisible despite the method provided above, or you chose not to follow it, you can do this:
 
-- Group the main character up with the invisible party members, and ungroup all visible party members. Then use the large Grymforge boat to cross the lake multiple times. Make sure you only have a party total of four. Continue crossing the lake until all members are visible.
+- Group the main character up with the invisible party members, and ungroup all visible party members. Then use the large Grymforge boat to cross the lake multiple times. Make sure you only have a party total of four. Continue crossing the lake until all members are visible.\\
 
 ***Issue #3: Sleeping Bug***\
 There is a small chance that some party members will not wake up after a long rest. Here's how you can fix it:
@@ -118,13 +117,13 @@ If for some reason you have installed the mod but it is not functioning, try the
 
 ***Issue #5: Crashing during Act 3***\
 There have been reports of crashing during Act 3 if you have too many party members with you, and your PC has an older CPU. If you experience common crashes while taking every party member, try reducing your party size, and it might fix the issue.\
-
+\
 Thanks to [Aetherpoint](https://www.nexusmods.com/users/13669385) for such careful explanation on his [modpage](https://www.nexusmods.com/baldursgate3/mods/3479).
 </details>
 
 <details><summary>Better Hotbar 2</summary>
-If you are having issues where you can't see your recast abilities in your hotbar (E.g. Speak with the Dead, Hex, etc), follow the following gif.:
-![Image](https://i.imgur.com/BHyN6Lz.gif)
+If you are having issues where you can't see your recast abilities in your hotbar (E.g. Speak with the Dead, Hex, etc), follow the following gif.:\
+![](https://i.imgur.com/BHyN6Lz.gif)
 </details>
 
 <details><summary>Multiplayer</summary>
